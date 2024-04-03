@@ -42,12 +42,12 @@ Fee modality. **The conference fee includes accommodation at Hotel La casona Min
 
 | Room capacity                        | Price per day p/p (MNX) | Whole week p/p (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
-| Double room, King size, 1 person                | $ 2,200                         | $ 13,200                    |
-| Double room, King size, 2 people                | $ 1,100                         | $ 6,600                     |
-| Double room, Queen size, 2 people                | $ 1,300                         | $ 7,800                     |
-| Quadruple room, Queen, 3 people             | $ 850                         | $ 5,100                     |
-| Quadruple room, Queen, 4 people             | $ 650                           | $ 3,900                     |
-| Quadruple room, Queen, 5 people             | $ 520                           | $ 3,120                     |
+| Double room, King size, 1 person                | $ 2,300                         | $ 13,800                    |
+| Double room, King size, 2 people                | $ 1,200                         | $ 7,200                     |
+| Double room, Queen size, 2 people                | $ 1,400                         | $ 8,400                     |
+| Quadruple room, Queen, 3 people             | $ 950                         | $ 5,700                     |
+| Quadruple room, Queen, 4 people             | $ 750                           | $ 4,500                     |
+| Quadruple room, Queen, 5 people             | $ 620                           | $ 3,720                     |
 
 
 <img src="Imgs/3_3rd Summer Camp.png" class="img-responsive" alt="">
