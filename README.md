@@ -1,3 +1,4 @@
+
 # Welcome to the info page for the 3rd *"Summer Retreat on Bioinformatics and Complex Networks"* 2024 !
 https://biocomplexnet.github.io/biocomplexnet.github.io
 
@@ -5,7 +6,7 @@ We are delighted to announce that this event will take place from **July 28th to
 
 <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The **3rd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
+The **3rd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary a round biological, computational and mathematical topics.
 
 This event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) located at CINVESTAV Irapuato, Guanajuato and the [Regeneration Lab](http://varelab.lavis.unam.mx). 
 
@@ -17,7 +18,7 @@ The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/
 
 <img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The hotel has fifteen rooms. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 beds-Queen size, with possibility of extra two or more people (up to 5), bath for one. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
+The hotel has fifteen rooms. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 beds-Queen size, with possibility of extra two or more people (up to 5), one bathroom per room. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
 # Scientific Program & Workshops
 
@@ -26,7 +27,7 @@ It is desirable but no mandatory for every participant to present their scientif
 We have two kinds of talks: 
 
 - **Light talk:** 10 minutes talk + 5 minutes questions
-- **Key talk (1 to 2 per day):** 25 minutes talk + 5 minutes questions 
+- **keynote talk (1 to 2 per day):** 25 minutes talk + 5 minutes questions 
 
 A meaningful (*preliminary*) title should be given during registration to schedule talk sessions. As expected, we will provide a video projector (with VGA & HDMI ports) and a laser pointer for the presentations. 
 
@@ -77,7 +78,7 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 
 # Further information
 
-- **Cash:**  Hotel La Casona Minera takes credit/debit cards. 
+- **Payments:**  Hotel La Casona Minera takes credit/debit cards. 
 - **Internet:** WIFI is available in Hotel La Casona Minera but might not cover all rooms equally.
 
 # 2024 Organizing committee
