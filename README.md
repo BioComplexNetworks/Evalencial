@@ -37,7 +37,7 @@ Preliminary schedule of our scientific program. *TBA*
 <img src="Imgs/talks.png" class="img-responsive" alt=""> 
 
 # Fee
-Fee modality.*The conference fee includes accommodation at Hotel La casona Minera and breakfast*
+Fee modality. **The conference fee includes accommodation at Hotel La casona Minera and breakfast**
 
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
