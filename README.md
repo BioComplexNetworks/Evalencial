@@ -1,13 +1,13 @@
 # Welcome to the info page for the 3rd *"Summer Retreat on Bioinformatics and Complex Networks"* 2024 !
 https://biocomplexnet.github.io/biocomplexnet.github.io
 
-We are delighted to announce that this event will take place from **July 28th to August 2nd of the current year 2024**, at Hotel La Casona Minera, located in Mineral de Pozos, Guanajuato, Mexico.
+We are delighted to announce that this event will take place from **July 28th to August 3rd of the current year 2024**, at Hotel La Casona Minera, located in Mineral de Pozos, Guanajuato, Mexico.
 
 <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The **3rd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
-This event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) located at CINVESTAV Irapuato, Guanajuato. 
+This event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) located at CINVESTAV Irapuato, Guanajuato and the Regeneration Lab (http://varelab.lavis.unam.mx)from INB-UNAM Campus Juriquilla. 
 
 You can find a photographic record of our past retreat in our Twitter! [@BioinfoComplexN](https://twitter.com/BioinfoComplexN)
 
@@ -25,19 +25,19 @@ It is desirable but no mandatory for every participant to present their scientif
 
 We have two kinds of talks: 
 
-- **Regular talk:** 10 minutes talk + 5 minutes questions
+- **Light talk:** 10 minutes talk + 5 minutes questions
 - **Key talk (1 to 2 per day):** 25 minutes talk + 5 minutes questions 
 
 A meaningful (*preliminary*) title should be given during registration to schedule talk sessions. As expected, we will provide a video projector (with VGA & HDMI ports) and a laser pointer for the presentations. 
 
-Preliminary schedule of our scientific program. *Definitive information on the schedule will be given soon.*
+Preliminary schedule of our scientific program. *TBA.*
 
 <img src="Imgs/schedule.png" class="img-responsive" alt="">
 
 <img src="Imgs/talks.png" class="img-responsive" alt=""> 
 
 # Fee
-Fee modality.
+Fee modality. *The conference fee includes accommodation at Hotel La casona Minera and breakfast* 
 
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
@@ -53,7 +53,6 @@ Fee modality.
 
 **Notes and considerations:** 
 -It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
-- The conference fee includes accommodation at Hotel La casona Minera and breakfast. 
 - Meals (lunch and dinner) are not included in the program fee. However, joint outings are organized to engage in group activities, but you are responsible for covering your own meal expenses during the program.
 - After your registration, you will receive an email with **payment details** in case you want to stay at Hotel La Casona Minera. 
 - The conference fee can only be refunded if the registration is canceled by the end of the registration deadline on July 9th (per e-mail). Otherwise, your payment will not be refunded.
@@ -77,15 +76,19 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 
 # Further information
 
-- **Cash:**  Hotel La Casona Minera takes credit/debit cards. 
+- **Cash:**  Hotel La Casona Minera takes credit/debit cards.
 - **Internet:** WIFI is available in Hotel La Casona Minera but might not cover all rooms equally.
 
 # 2024 Organizing comittee
 
+*Bioinformatics and Complex Networks Lab*
+PhD Katia Aviña-Padilla 
+PhD Eliana Valencia-Lozano 
+
+*Regeneration Lab*
 PhD Wilbert Gutiérrez Sarmiento,
 PhD Flor Citlally Alcantar-Aguirre,
-PhD Katia Aviña-Padilla and
-PhD Eliana Valencia-Lozano 
+
 
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
