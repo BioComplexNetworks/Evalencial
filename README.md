@@ -41,17 +41,18 @@ Fee modality. **The conference fee includes accommodation at Hotel La casona Min
 
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
-| Double room, (King size, 1 person                | $ 2,200                         | $ 13,200                    |
-| Double room, (King size, 2 people                | $ 1,100                         | $ 6,600                     |
-| Double room, (Queen size, 2 people                | $ 1,300                         | $ 7,800                     |
-| Quadruple room, (Queen, 3 people             | $ 850                         | $ 5,100                     |
-| Quadruple room, (Queen, 4 people             | $ 650                           | $ 3,900                     |
-| Quadruple room, (Queen, 5 people             | $ 520                           | $ 3,120                     |
+| Double room, King size, 1 person                | $ 2,200                         | $ 13,200                    |
+| Double room, King size, 2 people                | $ 1,100                         | $ 6,600                     |
+| Double room, Queen size, 2 people                | $ 1,300                         | $ 7,800                     |
+| Quadruple room, Queen, 3 people             | $ 850                         | $ 5,100                     |
+| Quadruple room, Queen, 4 people             | $ 650                           | $ 3,900                     |
+| Quadruple room, Queen, 5 people             | $ 520                           | $ 3,120                     |
 
 
 <img src="Imgs/3_3rd Summer Camp.png" class="img-responsive" alt="">
 
 **Notes and considerations:** 
+
 -It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
 - Meals (lunch and dinner) are not included in the program fee. However, joint outings are organized to engage in group activities, but you are responsible for covering your own meal expenses during the program.
 - After your registration, you will receive an email with **payment details** in case you want to stay at Hotel La Casona Minera. 
