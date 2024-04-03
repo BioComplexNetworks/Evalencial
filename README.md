@@ -83,13 +83,13 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 # 2024 Organizing committee
 
 **Bioinformatics and Complex Networks Lab**
--PhD Katia Aviña-Padilla 
--PhD Eliana Valencia-Lozano 
+-PhD Katia Aviña-Padilla, 
+PhD Eliana Valencia-Lozano 
 
 **Regeneration Lab**
 -PhD Wilbert Gutiérrez Sarmiento,
--PhD Flor Citlally Alcantar-Aguirre,
+PhD Flor Citlally Alcantar-Aguirre
 
-Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
+# Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
 <img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
