@@ -80,13 +80,13 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 - **Cash:**  Hotel La Casona Minera takes credit/debit cards. 
 - **Internet:** WIFI is available in Hotel La Casona Minera but might not cover all rooms equally.
 
-# 2024 Organizing comittee
+# 2024 Organizing committee
 
-Bioinformatics and Complex Networks Lab
+**Bioinformatics and Complex Networks Lab**
 -PhD Katia Aviña-Padilla 
 -PhD Eliana Valencia-Lozano 
 
-Regeneration Lab
+**Regeneration Lab**
 -PhD Wilbert Gutiérrez Sarmiento,
 -PhD Flor Citlally Alcantar-Aguirre,
 
