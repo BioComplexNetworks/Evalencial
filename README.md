@@ -39,7 +39,7 @@ Preliminary schedule of our scientific program. *TBA*
 # Fee
 Fee modality. **The conference fee includes accommodation at Hotel La casona Minera and breakfast**
 
-| Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
+| Room capacity                        | Price per day p/p (MNX) | Whole week p/p (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
 | Double room, King size, 1 person                | $ 2,200                         | $ 13,200                    |
 | Double room, King size, 2 people                | $ 1,100                         | $ 6,600                     |
