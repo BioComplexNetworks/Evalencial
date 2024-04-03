@@ -90,6 +90,8 @@ PhD Eliana Valencia-Lozano
 -PhD Wilbert Gutiérrez Sarmiento,
 PhD Flor Citlally Alcantar-Aguirre
 
+<img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
+
 # Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
-<img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
+
